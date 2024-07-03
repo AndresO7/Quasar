@@ -1,0 +1,9 @@
+openai
+langchain
+ipython
+request
+langchain-core
+langchain-community
+langchain-openai
+langchain-text-splitters 
+
